@@ -24,7 +24,7 @@ git commit -m "Primeiro commit"
 git push -u origin main
 O add seleciona os arquivos, o commit registra a alteração e o push envia tudo para o GitHub.
 
-
+***
 
 # **📖 Sessão 2: A Anatomia do README Perfeito**
 ### O **README.md** serve para explicar o projeto e ajudar outras pessoas a entenderem como ele funciona. Ele pode ser usado por outros programadores, professores ou qualquer pessoa que acessar o repositório.
@@ -42,7 +42,7 @@ Um README pode ter:
 ## *Markdown*
 O Markdown facilita a criação do README porque permite organizar o texto de forma simples, usando títulos, negrito, itálico, listas, links e códigos. Assim, o arquivo fica mais fácil de ler e entender.
 
-
+***
 
 # **🔄 Sessão 3: O Mapa das Atualizações (Commits e Pushes)**
 ### Existem diferentes maneiras de atualizar um projeto no GitHub.
